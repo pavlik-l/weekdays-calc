@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekdaysCalculator", "WeekdaysCalculator\WeekdaysCalculator.csproj", "{A575C1D6-8496-40AF-906F-518A1E1F0689}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekdaysCalculatorTest", "WeekdaysCalculatorTest\WeekdaysCalculatorTest.csproj", "{05B8DE6E-8711-4DF4-8420-423FE633C909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicHolidaysDBGeneratorUtil", "PublicHolidaysDBGeneratorUtil\PublicHolidaysDBGeneratorUtil.csproj", "{419B167C-C9F2-4F06-A9EC-5BDBFA78BC60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A575C1D6-8496-40AF-906F-518A1E1F0689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A575C1D6-8496-40AF-906F-518A1E1F0689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A575C1D6-8496-40AF-906F-518A1E1F0689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A575C1D6-8496-40AF-906F-518A1E1F0689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B8DE6E-8711-4DF4-8420-423FE633C909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B8DE6E-8711-4DF4-8420-423FE633C909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B8DE6E-8711-4DF4-8420-423FE633C909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B8DE6E-8711-4DF4-8420-423FE633C909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419B167C-C9F2-4F06-A9EC-5BDBFA78BC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419B167C-C9F2-4F06-A9EC-5BDBFA78BC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419B167C-C9F2-4F06-A9EC-5BDBFA78BC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419B167C-C9F2-4F06-A9EC-5BDBFA78BC60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEFE360F-E6A4-45EB-8DB7-F97A15055A9F}
+	EndGlobalSection
+EndGlobal
